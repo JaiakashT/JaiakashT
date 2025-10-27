@@ -24,7 +24,7 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________________________
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaiakashTh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaiakashT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaiakashT&layout=compact&theme=tokyonight&hide_border=true)
 
