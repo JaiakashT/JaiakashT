@@ -24,11 +24,11 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________________________
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tjaiakash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaiakashT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tjaiakash&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaiakashT&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tjaiakash&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JaiakashT&theme=tokyonight&hide_border=true)
 
 
 
